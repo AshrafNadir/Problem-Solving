@@ -6,7 +6,7 @@ void permute(char *s,int l,int r)
     if(l==r)
         printf("%s\n",s);
     else
-    {
+    { 
         for(i=l;i<=r;i++)
         {
             swap((s+l),(s+i));
