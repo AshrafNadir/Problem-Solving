@@ -42,7 +42,7 @@ int main()
         {
             for(k=0;k<c1;k++)
             {
-                sum=sum+a[i][k]*b[k][i];
+                sum=sum+a[i][k]*b[k][j];
             }
             c[i][j]=sum;
             sum=0;
