@@ -1,3 +1,5 @@
+// it is a code about 2D array multiplication
+
 #include<stdio.h>
 
 int main()
